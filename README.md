@@ -3,6 +3,7 @@
 **Authors:** <br />
 Jordi Bolibar <br />
 Facundo Sapienza
+Felix Dahle
 
 ## Project description
 
