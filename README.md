@@ -1,9 +1,11 @@
 # Project: Machine learning for glacier mass balance modelling
 
+**Student:** <br />
+Felix Dahle
+
 **Authors:** <br />
 Jordi Bolibar <br />
 Facundo Sapienza
-Felix Dahle
 
 ## Project description
 
